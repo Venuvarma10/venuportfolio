@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/venuportfolio/static/css/main.6147c28b.css",
+    "main.js": "/venuportfolio/static/js/main.3c147715.js",
+    "static/js/496.1811ca5a.chunk.js": "/venuportfolio/static/js/496.1811ca5a.chunk.js",
+    "static/media/hackherosProj.png": "/venuportfolio/static/media/hackherosProj.e448c75d8db14d9e2d9d.png",
+    "static/media/ecommerceProj.png": "/venuportfolio/static/media/ecommerceProj.ba5c65bd31ae2a498092.png",
+    "static/media/shopProj.png": "/venuportfolio/static/media/shopProj.c599de8df1b48756fd08.png",
+    "static/media/homeicons.svg": "/venuportfolio/static/media/homeicons.635077bdda0ab43ae14208bcfda93699.svg",
+    "static/media/venuPhotos.png": "/venuportfolio/static/media/venuPhotos.551867104fd7e159bee8.png",
+    "static/media/about.png": "/venuportfolio/static/media/about.0d89b152b9d060142e14.png",
+    "static/media/portfolio.png": "/venuportfolio/static/media/portfolio.8a7506b2a5c8920c3a90.png",
+    "static/media/logoDark.png": "/venuportfolio/static/media/logoDark.4120d8c32675b231e350.png",
+    "static/media/logoLight.png": "/venuportfolio/static/media/logoLight.03969f1f402184d86c92.png",
+    "static/media/pre.svg": "/venuportfolio/static/media/pre.74b00c043f4cea5fb393.svg",
+    "index.html": "/venuportfolio/index.html",
+    "main.6147c28b.css.map": "/venuportfolio/static/css/main.6147c28b.css.map",
+    "main.3c147715.js.map": "/venuportfolio/static/js/main.3c147715.js.map",
+    "496.1811ca5a.chunk.js.map": "/venuportfolio/static/js/496.1811ca5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6147c28b.css",
+    "static/js/main.3c147715.js"
+  ]
+}
