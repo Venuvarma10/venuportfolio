@@ -1,6 +1,6 @@
 <h2 align="center">
   Venu Varma | Portfolio Website<br/>
-  <a href="https://www.rahuljha.info/" target="_blank">Venu Varma</a>
+  <a href="https://venuvarma10.github.io/venuportfolio/" target="_blank">Venu Varma</a>
 </h2>
 <br/>
 
@@ -8,7 +8,7 @@
 
 ## Built With
 
-My personal portfolio website <a href="https://www.rahuljha.info/" target="_blank">Venu Varma</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio website <a href="https://venuvarma10.github.io/venuportfolio/" target="_blank">Venu Varma</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project is built using these technologies.
 
